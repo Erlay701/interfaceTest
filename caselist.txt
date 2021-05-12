@@ -1,8 +1,8 @@
-user/test01case
-#user/test02case
-#user/test03case
-#user/test04case
-#user/test05case
-#shop/test_shop_list
-#shop/test_my_shop
-#shop/test_new_shop
+#test01case
+test02case
+#test03case
+#test04case
+#test05case
+#test_shop_list
+#test_my_shop
+#test_new_shop
